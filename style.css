@@ -107,6 +107,10 @@ img {
 	margin: 10px;
 }
 
+.left ul {
+	margin-left: 5em;
+}
+
 ul {
 	float: left;
 	list-style-type: none;
